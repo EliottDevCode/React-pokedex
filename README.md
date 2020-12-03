@@ -1,3 +1,7 @@
+# Pokedex in React
+
+This project is a full pokedex build with the Pokemon API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
